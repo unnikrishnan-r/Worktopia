@@ -6,6 +6,10 @@
   "lint-staged": {
     "*.js": "eslint"
   },
+  "engines" : { 
+    "npm" : "9.0.0",
+    "node" : "16.0.0"
+  },
   "scripts": {
     "precommit": "lint-staged",
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
