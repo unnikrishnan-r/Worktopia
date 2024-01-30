@@ -1,7 +1,10 @@
 <h1 align="center">Worktopia - Building the culture of sharing workspaces!<h1>
 https://frozen-spire-07685.herokuapp.com/
+
+### Note
+
 Deployed version has not been kept updated, sorry!
-See a [demo](https://youtu.be/Zt35HXKYzzI)
+See a previously recorded [demo](https://youtu.be/Zt35HXKYzzI)
 
 ### Contributors
 
