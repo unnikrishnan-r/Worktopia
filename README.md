@@ -1,5 +1,7 @@
 <h1 align="center">Worktopia - Building the culture of sharing workspaces!<h1>
 https://frozen-spire-07685.herokuapp.com/
+Deployed version has not been kept updated, sorry!
+See a [demo](https://youtu.be/Zt35HXKYzzI)
 
 ### Contributors
 
@@ -47,8 +49,6 @@ Leave the hassles of fineprints and legal contracts to the experts while you enj
 Read more about [Worktopia](https://docs.google.com/presentation/d/1OFudiB5juLJJPnSSshA1n2ZsBayK_iOFlRZcMc0DU7E/edit#slide=id.g7949ea32d0_1_81)
 
 [Project Proposal](WorkTopia_Project_Proposal.md)
-
-See a [demo](https://youtu.be/Zt35HXKYzzI)
 
 ## Tech Stack
 
